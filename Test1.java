@@ -1,4 +1,4 @@
-imprt java.util.*
+import java.util.*
 public class Test1{
     public ArrayList demo(){
       ArrayList al= new ArrayList();
